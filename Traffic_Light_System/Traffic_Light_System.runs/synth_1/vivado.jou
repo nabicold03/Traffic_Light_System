@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Thu May  2 20:12:45 2024
+# Process ID: 18964
+# Current directory: D:/Traffic_Light_System/Traffic_Light_System/Traffic_Light_System.runs/synth_1
+# Command line: vivado.exe -log Traffic_Light_System.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Traffic_Light_System.tcl
+# Log file: D:/Traffic_Light_System/Traffic_Light_System/Traffic_Light_System.runs/synth_1/Traffic_Light_System.vds
+# Journal file: D:/Traffic_Light_System/Traffic_Light_System/Traffic_Light_System.runs/synth_1\vivado.jou
+# Running On: LAPTOP-9BJOKJMD, OS: Windows, CPU Frequency: 2688 MHz, CPU Physical cores: 6, Host memory: 8315 MB
+#-----------------------------------------------------------
+source Traffic_Light_System.tcl -notrace

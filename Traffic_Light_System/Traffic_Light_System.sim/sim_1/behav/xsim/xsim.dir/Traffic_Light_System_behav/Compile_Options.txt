@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "secureip" --snapshot "Traffic_Light_System_behav" "xil_defaultlib.Traffic_Light_System" -log "elaborate.log" 
